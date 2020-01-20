@@ -109,7 +109,8 @@ p {
 }
 
 @media (max-width: 768px) {
-  p {font-size: 13px;}
+  p {font-size: 12px;}
+
   #collapsable-nav {
     background-color: #ba0000;
   }
